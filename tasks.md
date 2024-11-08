@@ -22,9 +22,18 @@ on the database.
 
 - Open the pets SQL. 
 - What are the entities used in this data model?
+  1. Pets
+  2. Pet Owners
+
 - What tables are created?
+  1. pet
+  2. pet_kind
+  3. pet_owner
+
 - What are the relations between the tables (one, many...)?
 - What kind of constrains provide these relations?
+  - primary and foreign keys that connect the relations (example: pet - owner)
+
 
 ## Task 1: Insert, delete, update (Data manipulation)
 
